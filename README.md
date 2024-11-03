@@ -1,3 +1,5 @@
+Description lang.: Slovenian --> translate if needed
+
 Pregled podatkovne zbirke
 Podatki so bili pridobljeni iz javno dostopnih repozitorijev na Kaggle.com in Google Scholar Datasets. Osredotočili smo se na zbirke, ki vsebujejo tako zdrave kot okužene rastline, ter dodatne posamezne zbirke samo zdravih ali samo bolnih primerkov. Vsaka vrsta rastline je organizirana v ločene mape, razdeljene na zdrave in bolne primerke. Na primer, paprike so razdeljene v dve mapi: pepper_healthy in pepper_sick, pri čemer vsaka mapa vsebuje podmape za posamezne bolezni, ki vplivajo na to vrsto rastline.
 
