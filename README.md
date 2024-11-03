@@ -1,3 +1,5 @@
+Description Language: Slovenian --> translate if needed
+
 PlantClassificationDataSet
 Ta repozitorij vsebuje zbirke podatkov, pripravljene za analizo in klasifikacijo zdravja ter vrste rastlin. Zaradi pomanjkanja celovite javno dostopne podatkovne zbirke za ta specifičen namen so bile različne zbirke podatkov prilagojene, segmentirane in združene v končno zbirko, ki ustreza našim potrebam.
 
