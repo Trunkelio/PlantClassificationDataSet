@@ -1,0 +1,7 @@
+Image Conversion Log
+=====================
+Directory: C:\Users\rok.trunkelj\Desktop\DIPLOMSKA NALOGA\Podatkovne zbirke\Main dataset\Obdelani_podatki\test_healthy\grozdje\healthy
+
+Total converted and standardized images: 96
+
+Process completed.
